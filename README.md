@@ -6,5 +6,6 @@ projet de test
  sylvain est en infractionS
 
 jubin est en info
+jubin est un piètre barman
 
 
